@@ -1,0 +1,11 @@
+customer_id,tenure_months,contract_type,monthly_charges,total_charges,promotion_applied,internet_service,tech_support,churn_status
+CUST-0001,12,Month-to-Month,69.85,838.20,AURA_Upgrade,Fiber Optic,No,Yes
+CUST-0002,34,One Year,56.95,1936.30,None,DSL,Yes,No
+CUST-0003,2,Month-to-Month,53.85,107.70,5G_Flex,DSL,No,Yes
+CUST-0004,45,Two Year,42.30,1903.50,None,No,No,No
+CUST-0005,8,Month-to-Month,70.70,565.60,AURA_Upgrade,Fiber Optic,No,Yes
+CUST-0006,22,One Year,89.10,1960.20,5G_Flex,Fiber Optic,Yes,No
+CUST-0007,10,Month-to-Month,29.75,297.50,None,DSL,No,No
+CUST-0008,28,One Year,104.80,2934.40,5G_Flex,Fiber Optic,Yes,No
+CUST-0009,62,Two Year,56.15,3481.30,AURA_Upgrade,DSL,Yes,No
+CUST-0010,13,Month-to-Month,49.95,649.35,None,DSL,No,Yes
