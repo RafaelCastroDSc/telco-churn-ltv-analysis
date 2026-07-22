@@ -20,3 +20,6 @@ This project analyzes customer retention, churn rates, and Customer Lifetime Val
 ---
 
 ## 📂 Repository Structure
+
+## 📊 Tableau Dashboard
+> 🔗 [View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/rafael.castro4244/viz/TelcoChurnPromotionLTVDashboard/Dashboard1?publish=yes)
